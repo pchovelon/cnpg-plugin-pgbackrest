@@ -5,8 +5,8 @@ sidebar_position: 1
 # Introduction
 
 :::warning
-Experimental CloudNativePG operator plugin to backup PostgreSQL instances with
-pgBackRest.
+This is an experimental CloudNativePG operator plugin to backup PostgreSQL instances with
+[pgBackRest](https://pgbackrest.org/).
 :::
 
 ## Features

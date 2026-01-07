@@ -50,7 +50,6 @@ const config = {
           versions: {
             current: {
               label: "current",
-              path: "current",
             },
           },
           // Please change this to your repo.
@@ -81,10 +80,6 @@ const config = {
           src: "img/logo.svg",
         },
         items: [
-          {
-            type: "docsVersionDropdown",
-            versions: ["0.0.1a"],
-          },
           {
             type: "docSidebar",
             sidebarId: "tutorialSidebar",
